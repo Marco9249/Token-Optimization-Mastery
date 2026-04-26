@@ -5,9 +5,10 @@
 ---
 
 ## 🎯 Purpose
-Minimize token consumption (input + output) in every AI interaction to achieve:
+Combine aggressive token optimization with strict behavioral enforcement to achieve efficient AND predictable agents:
 - **10x faster responses** (less context to process)
 - **Lower cost per session**
+- **Zero behavioral drift** via Caliber-inspired scope and schema constraints
 - **Prevent context window overflow** on long projects
 - **Never lose critical instructions** due to memory saturation
 
@@ -55,7 +56,7 @@ Minimize token consumption (input + output) in every AI interaction to achieve:
 
 ---
 
-## 📋 The 4-Protocol System
+## 📋 The 5-Protocol System (Token Compression + Behavioral Enforcement)
 
 ### Protocol A: 3-Layer MCP Memory Workflow (MANDATORY)
 ```
@@ -88,6 +89,14 @@ For files > 500 lines or > 20,000 tokens:
   3. query_corpus(name, question)→ targeted Q&A on the corpus
 ```
 This avoids dumping entire documents into the active conversation.
+
+### Protocol E: Behavioral Enforcement Layer (Caliber-Inspired)
+Even with 95% token savings, compressed contexts can lead to "behavioral drift," where actions stray from original intent. To counter this, layer declarative behavioral enforcement on top of token optimization:
+1. **Schema Compliance:** Validate every tool call against exact schema definitions before execution.
+2. **Scope Constraints:** Define clear boundaries for edits and searches. Do not wander outside the immediate task scope.
+3. **Tool Call Limits:** Enforce strict caps on consecutive tool usage to prevent runaway loops.
+4. **Declarative Validation:** Treat rules as an infrastructure-level proxy. Mentally validate every LLM API/tool action against task constraints before outputting.
+*(Combining high token compression with strict runtime enforcement yields efficient AND predictable execution.)*
 
 ---
 
