@@ -68,5 +68,18 @@ Prompt:
 "Read the Token Optimization Mastery documentation in this repository and adopt its rules as absolute constraints (Level 0) for all our future interactions."
 ```
 
+## 👨‍💻 Author & Contact
+
+**Marco9249**  
+*AI Researcher & Developer*
+
+- **GitHub:** [@Marco9249](https://github.com/Marco9249)
+- **Email:** Marco9249@users.noreply.github.com
+- **Portfolio:** Check out my other academic and code repositories on my GitHub profile.
+
+If you have any questions, suggestions, or wish to collaborate on AI optimization techniques, feel free to reach out or open an issue!
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
