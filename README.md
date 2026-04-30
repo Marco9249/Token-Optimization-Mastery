@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0052D4,4364F7,6FB1FC&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a%2C1e293b%2C334155&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20" width="100%" />
 
 **Advanced Protocol for Extreme AI Efficiency, Context Management, & Cost Reduction**
 
@@ -73,6 +69,12 @@ V3.1 integrates **Graph Navigation Protocols** (inspired by advanced code-review
 | 🗣️ **AI Response Verbosity** | Rambling explanation + code block <br> *~2,500 output tokens* | V3.1 Strict Limit (≤ 5 tools) <br> *Completed in 420 tokens* | **~83.2%** 📉 |
 
 **Conclusion:** The V3.1 architecture successfully reduces overall task token consumption by **>96%**, achieving near-instantaneous latency and zero context drift.
+
+---
+
+## 📚 Documentation
+- 📄 [**قراءة الدليل باللغة العربية (AR)**](Token_Optimization_AR.md)
+- 📄 [**Read the Skill Guide in English (EN)**](Token_Optimization_EN.md)
 
 ---
 
