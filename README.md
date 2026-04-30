@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4,4364F7,6FB1FC&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0052D4,4364F7,6FB1FC&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,334155&height=250&section=header&text=Token%20Optimization%20Mastery&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=V3.1%20Ultimate%20Agentic%20Protocol&descAlignY=55&descSize=20" width="100%" />
+</picture>
 
 **Advanced Protocol for Extreme AI Efficiency, Context Management, & Cost Reduction**
 
